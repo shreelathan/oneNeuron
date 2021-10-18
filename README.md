@@ -26,4 +26,11 @@ x1 |x2 | y
 1|0|0
 1|1|1
 
+###
+* point 1
+* point 2
+
+1. point 1
+
+# One hash for title , two hash for title with small fonts, three hash for smaller fonts
 
