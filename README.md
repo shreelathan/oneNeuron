@@ -20,6 +20,7 @@ def predict(self, X):
 ## To show table
 
 x1 |x2 | y
+-|-|-
 0|0|0
 0|1|0
 1|0|0
